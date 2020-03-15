@@ -231,3 +231,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 # System prop for UBWC
 PRODUCT_PROPERTY_OVERRIDES += \
     vendor.video.disable.ubwc=1
+
+# Maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+    org.komodo.maintainer=zulfkennedy
