@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository": "WEEDRR/Kernel_asus_sdm660",
+    "repository": "NusantaraDevs/kernel_asus_neesan",
     "target_path": "kernel/asus/sdm660",
-    "branch": "eas"
+    "branch": "sdm-10-eas-new"
   },
   {
     "remote": "github",
-    "repository": "WEEDRR/proprietary_vendor_asus",
+    "repository": "Komodo-OS-Devices/vendor_asus",
     "target_path": "vendor/asus",
     "branch": "komodo"
   }
